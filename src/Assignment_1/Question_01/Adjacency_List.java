@@ -1,4 +1,4 @@
-package Question_01;
+package Assignment_1.Question_01;
 import java.util.ArrayList;
 public class Adjacency_List {
 

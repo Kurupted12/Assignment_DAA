@@ -1,4 +1,4 @@
-package Question_04;
+package Assignment_1.Question_04;
 
 public class LCSProgram {
 

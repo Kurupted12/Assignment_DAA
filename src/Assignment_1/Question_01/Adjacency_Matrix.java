@@ -1,4 +1,4 @@
-package Question_01;
+package Assignment_1.Question_01;
 
 public class Adjacency_Matrix {
 

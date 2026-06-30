@@ -1,4 +1,4 @@
-package Question_02;
+package Assignment_1.Question_02;
 
 public class CoinChange {
 
